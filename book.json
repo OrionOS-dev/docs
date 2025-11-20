@@ -1,0 +1,52 @@
+{
+  "title": "OrionOS Documentation",
+  "description": "Official documentation for OrionOS - The Operating System for AI Agents",
+  "author": "OrionOS Team",
+  "language": "en",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "theme-default",
+    "search",
+    "copy-code-button",
+    "expandable-chapters",
+    "github",
+    "edit-link",
+    "prism",
+    "-highlight",
+    "anchorjs",
+    "ga",
+    "sitemap-general"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/OrionOS-dev/orionos"
+    },
+    "edit-link": {
+      "base": "https://github.com/OrionOS-dev/orionos/tree/main/docs",
+      "label": "Edit This Page"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-ghcolors.css"
+      ]
+    },
+    "ga": {
+      "token": "UA-XXXXX-Y"
+    },
+    "sitemap-general": {
+      "prefix": "https://docs.orionos.dev/"
+    }
+  },
+  "links": {
+    "sidebar": {
+      "OrionOS Website": "https://orionos.dev",
+      "GitHub": "https://github.com/OrionOS-dev/orionos",
+      "Discord": "https://discord.gg/orionos",
+      "Twitter": "https://twitter.com/orionosdev"
+    }
+  },
+}

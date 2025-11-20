@@ -1,0 +1,22 @@
+{
+  "name": "orionos-docs",
+  "version": "1.0.0",
+  "description": "OrionOS Documentation powered by GitBook",
+  "scripts": {
+    "docs:serve": "gitbook serve",
+    "docs:build": "gitbook build",
+    "docs:install": "gitbook install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orionos/orionos"
+  },
+  "keywords": [
+    "orionos",
+    "ai",
+    "agents",
+    "documentation"
+  ],
+  "author": "OrionOS Team",
+  "license": "MIT"
+}
