@@ -40,17 +40,6 @@
 * [Memory and State](agents/memory-state.md)
 * [Runtime and Lifecycle](agents/runtime-lifecycle.md)
 
-## Plugins
-
-* [Architecture](plugins/architecture.md)
-* [Components](plugins/components.md)
-* [Development](plugins/development.md)
-* [Patterns](plugins/patterns.md)
-* [Webhooks and Routes](plugins/webhooks-routes.md)
-* [Database Schema](plugins/database-schema.md)
-* [Migration](plugins/migration.md)
-* [Reference](plugins/reference.md)
-
 ## Runtime
 
 * [Core](runtime/core.md)
